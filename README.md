@@ -3,6 +3,7 @@
 
 # 実行環境
 ・Unity 4.03 <Br>
+・SteamVR 2.73 <Br>
 ・HMD:VIVE Pro Eye <Br>
   
 # 機能
