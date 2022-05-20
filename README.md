@@ -1,5 +1,5 @@
 # VR-Baseball-Game
-野球ゲーム<Br>
+新感覚野球ゲーム<Br>
 
 # 実行環境
 ・Unity 2020 3.26f1 <Br>
