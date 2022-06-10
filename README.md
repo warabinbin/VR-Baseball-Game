@@ -5,6 +5,7 @@
 ・Unity 2020 3.26f1 <Br>
 ・SteamVR 2.73 <Br>
 ・HMD:VIVE Pro Eye <Br>
+・PERCEPTION NEURON 2.0 <Br>
   
 # 機能
 ・球種（ストレート、スライダー、フォーク、シュート、ジャイロボール） <Br>
