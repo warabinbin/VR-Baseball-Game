@@ -10,6 +10,13 @@ https://warabinbin.github.io/VR-Baseball-Game/ <Br>
 # 実行例
 あいうえお
 
+# モーションキャプチャー
+
+
+https://user-images.githubusercontent.com/64608456/174785742-ce903603-644e-4624-8b84-04af87da820b.mp4
+
+
+  
 # 球種
 
 
