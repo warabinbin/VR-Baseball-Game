@@ -3,7 +3,15 @@
 https://warabinbin.github.io/VR-Baseball-Game/ <Br>
 
 # プレイ動画
-あいうえお
+VR上の画面
+
+https://user-images.githubusercontent.com/64608456/174791223-13b3d5dc-c570-4f79-b560-860d9dca7c44.mp4
+
+ 
+Unity上の画面
+
+https://user-images.githubusercontent.com/64608456/174791165-34a0d7f8-ca42-4fe8-9a22-1ec3647ae628.mp4
+
   
 # 所感
 体験型VR野球ゲームです。球をバットに当てることは容易ではないので、バットや球を巨大にしたり、反発係数を大きくする、軌道を可視化するなど、野球未経験者でも楽しめる演出を盛り込みました。また、VR酔いが少しでも起きないように，視点をさほど動かす必要のない人間の視野の広さである両眼左右180°内に球を提示しました。<BR>
