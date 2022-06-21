@@ -7,7 +7,23 @@ https://warabinbin.github.io/VR-Baseball-Game/ <Br>
 
 身体を使った体験型ゲーム（Wii Sports等）は中に入りこめて面白い!!しかし、ソロプレイでは盛り上がりにかける......対戦型にすれば楽しさ倍増!?また、自分のアバターを投影出来たら没入感も倍増!?<Br>
 
-https://user-images.githubusercontent.com/64608456/174773231-f8303d6f-7c06-4c6e-ace3-ff064112dc3d.mp4
-  
-  
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/64608456/174775979-af096388-c3c7-479d-8750-5ab01b4bd477.gif)
+
+
+https://user-images.githubusercontent.com/64608456/174776676-427d02cf-789a-4a48-bbfd-078a0d0628c4.mp4
+
+
+
+https://user-images.githubusercontent.com/64608456/174776690-7ce37ead-7fa1-4c6a-ab88-21e153b70ce6.mp4
+
+
+
+https://user-images.githubusercontent.com/64608456/174776701-0a59fe6a-3d79-4fc6-8162-1f2554ee744f.mp4
+
+
+
+https://user-images.githubusercontent.com/64608456/174776707-0d03cc82-f97c-42a9-a488-9db92e898c2f.mp4
+
+
+
+https://user-images.githubusercontent.com/64608456/174776714-177cbcef-2809-4274-a6a8-95d3cb831618.mp4
+
