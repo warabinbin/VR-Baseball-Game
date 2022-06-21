@@ -18,8 +18,8 @@ https://user-images.githubusercontent.com/64608456/174791579-ee694810-2c8a-449d-
 身体を使った体験型ゲーム（Wii Sports等）は中に入りこめて面白い!!しかし、ソロプレイでは盛り上がりにかける......対戦型にすれば楽しさ倍増!?また、自分のアバターを投影出来たら没入感も倍増!?<Br>
 
 # モーションキャプチャー
-かわいいアバターでプレイ出来たら楽しい！（実装中）
-https://hub.vroid.com/characters/7505683733281551689/models/7976399858536859281
+かわいいアバターでプレイ出来たら楽しい！（実装中）<Br>
+自作アバター：https://hub.vroid.com/characters/7505683733281551689/models/7976399858536859281
 
 https://user-images.githubusercontent.com/64608456/174785742-ce903603-644e-4624-8b84-04af87da820b.mp4
 
