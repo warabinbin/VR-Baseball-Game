@@ -19,11 +19,10 @@ https://user-images.githubusercontent.com/64608456/174791579-ee694810-2c8a-449d-
 
 # モーションキャプチャー
 かわいいアバターでプレイ出来たら楽しい！（実装中）<Br>
-自作アバター：https://hub.vroid.com/characters/7505683733281551689/models/7976399858536859281
 
 https://user-images.githubusercontent.com/64608456/174785742-ce903603-644e-4624-8b84-04af87da820b.mp4
 
-
+自作アバター：https://hub.vroid.com/characters/7505683733281551689/models/7976399858536859281
   
 # 球種
 
