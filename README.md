@@ -5,12 +5,11 @@ https://warabinbin.github.io/VR-Baseball-Game/ <Br>
 # プレイ動画
 VR上の画面
 
-https://user-images.githubusercontent.com/64608456/174791223-13b3d5dc-c570-4f79-b560-860d9dca7c44.mp4
-
+https://user-images.githubusercontent.com/64608456/174791538-94fc8ac4-3723-45bb-a3af-e4c5dae21c10.mp4
  
 Unity上の画面
 
-https://user-images.githubusercontent.com/64608456/174791165-34a0d7f8-ca42-4fe8-9a22-1ec3647ae628.mp4
+https://user-images.githubusercontent.com/64608456/174791579-ee694810-2c8a-449d-8a91-ca1dfa5b92af.mp4
 
   
 # 所感
